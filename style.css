@@ -2,3 +2,10 @@ body {
   color: white;
 }
 
+p {
+  background-color: aqua;
+}
+
+h1 {
+  color: red;
+}
